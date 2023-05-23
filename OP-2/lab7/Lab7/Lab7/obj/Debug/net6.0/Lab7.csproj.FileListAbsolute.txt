@@ -1,0 +1,15 @@
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/bin/Debug/net6.0/Lab7
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/bin/Debug/net6.0/Lab7.deps.json
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/bin/Debug/net6.0/Lab7.runtimeconfig.json
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/bin/Debug/net6.0/Lab7.dll
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/bin/Debug/net6.0/Lab7.pdb
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/obj/Debug/net6.0/Lab7.csproj.AssemblyReference.cache
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/obj/Debug/net6.0/Lab7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/obj/Debug/net6.0/Lab7.AssemblyInfoInputs.cache
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/obj/Debug/net6.0/Lab7.AssemblyInfo.cs
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/obj/Debug/net6.0/Lab7.csproj.CoreCompileInputs.cache
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/obj/Debug/net6.0/Lab7.dll
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/obj/Debug/net6.0/refint/Lab7.dll
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/obj/Debug/net6.0/Lab7.pdb
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/obj/Debug/net6.0/Lab7.genruntimeconfig.cache
+/Users/dayanagavrylenko/КПІ/2 СЕМЕСТР/OOP/lab7/Lab7/Lab7/obj/Debug/net6.0/ref/Lab7.dll
